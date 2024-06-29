@@ -541,7 +541,7 @@ flex-wrap: wrap;
     background-size: cover;
 }
 .backpic .pic-6{
-    background-image: url('/assets/backpic//6.png');
+    background-image: url('/assets/backpic/6.png');
     width: 100%;
     min-height:400Px ;
     background-size: cover;
