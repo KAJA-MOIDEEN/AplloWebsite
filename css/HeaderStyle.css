@@ -106,7 +106,7 @@ padding-right: 100px;
 .hero{
     width: 100%;
     height: 449px;
-    background-image: url('/assets/docter\ bc\ pic.jpg');
+    background-image: url('/assets/docterbcpic.jpg');
     background-repeat:no-repeat;
     background-size: cover;
     display: flex;
@@ -722,3 +722,4 @@ title-title h1{
     box-shadow: 1px 2px 8px black;
 
 }
+
